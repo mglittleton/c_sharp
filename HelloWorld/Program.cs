@@ -6,13 +6,30 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            string test = "Hello World";
+            //byte number = 2;
+            //int count = 10;
+            //float totalPrice = 20.95f;
+            //char character = 'a';
+            //string firstName = "Teddy";
+            //bool isWorking = false;
 
-            ConsoleColor color = Console.BackgroundColor;
+            var number = 2;
+            var count = 10;
+            var totalPrice = 20.95f;
+            var character = 'a';
+            var firstName = "Teddy";
+            var isWorking = false;
 
-            Console.ReadKey();
 
-            Console.WriteLine(color);
+            Console.WriteLine(number);
+            Console.WriteLine(count);
+            Console.WriteLine(totalPrice);
+            Console.WriteLine(character);
+            Console.WriteLine(firstName);
+            Console.WriteLine(isWorking);
+
+            Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+            Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
         }
     }
 }
