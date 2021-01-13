@@ -6,16 +6,13 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            int num1 = 13;
-            int num2 = 45;
-            int sum = num1 + num2;
+            string test = "Hello World";
 
-            Console.WriteLine(num1);
-            Console.WriteLine(num2);
-            Console.WriteLine("The sum of " + num1 + " and " + num2 + " is " + sum + '.');
+            ConsoleColor color = Console.BackgroundColor;
 
+            Console.ReadKey();
 
-            Console.Read();
+            Console.WriteLine(color);
         }
     }
 }
