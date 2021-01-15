@@ -1,6 +1,8 @@
 ﻿using System;
 
-namespace HelloWorld
+// playing with variables
+
+/*namespace HelloWorld
 {
     class Program
     {
@@ -30,6 +32,39 @@ namespace HelloWorld
 
             Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
             Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
+        }
+    }
+}*/
+
+
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*int x = 2000;
+            byte output = (byte) x; // output 208 => 1101 0000 that's left after truncation*/
+
+            /*var x = "2000";
+            int output = Convert.ToInt32(x); // output 2000 => converted from "2000"*/
+
+            /*var num = "2000";
+            byte output = Convert.ToByte(num); // unhandled exception => 2000 is too large for a byte*/
+
+            try
+            {
+                var num = "2000";
+                byte output = Convert.ToByte(num); // unhandled exception => 2000 is too large for a byte
+                Console.WriteLine(output);
+            }
+            catch (Exception)
+            {
+
+                Console.WriteLine("The number could not be converted");
+            }
+
+
         }
     }
 }
