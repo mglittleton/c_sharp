@@ -1,4 +1,5 @@
 ﻿using System;
+using CSharpFundamentals.Math;
 
 namespace CSharpFundamentals
 {
@@ -6,7 +7,14 @@ namespace CSharpFundamentals
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var john = new Person();
+            john.FirstName = "John";
+            john.LastName = "Smith";
+            john.Introduce();
+
+            Calculator calculator = new Calculator();
+            var result = calculator.Add(1, 2);
+            Console.WriteLine(result);
         }
     }
 }
