@@ -20,12 +20,12 @@ namespace CSharpFundamentals
         static void Main(string[] args)
         {
             var number = 1;
-            Increment(number); // does not change "number"
+            Increment(number); // does not change "number" because it is copied, not pointed to
             Console.WriteLine(number);
 
             var person = new Personage() { Age = 20 };
             MakeOld(person);
-            Console.WriteLine(person.Age);
+            Console.WriteLine(person.Age); // "MakeOld" changes the memory location of "person.Age" to the new value
         }
 
         public static void Increment(int number)
