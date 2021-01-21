@@ -1,0 +1,13 @@
+C:\Users\micha\source\repos\HelloWorld\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.exe
+C:\Users\micha\source\repos\HelloWorld\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.deps.json
+C:\Users\micha\source\repos\HelloWorld\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.json
+C:\Users\micha\source\repos\HelloWorld\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.dev.json
+C:\Users\micha\source\repos\HelloWorld\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\micha\source\repos\HelloWorld\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.pdb
+C:\Users\micha\source\repos\HelloWorld\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\HelloWorld\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfo.cs
+C:\Users\micha\source\repos\HelloWorld\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\HelloWorld\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.dll
+C:\Users\micha\source\repos\HelloWorld\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.pdb
+C:\Users\micha\source\repos\HelloWorld\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.genruntimeconfig.cache
+C:\Users\micha\source\repos\HelloWorld\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csprojAssemblyReference.cache

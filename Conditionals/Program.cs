@@ -2,11 +2,26 @@
 
 namespace Conditionals
 {
-    class Program
+  class Program
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+      int hour = 10;
+
+      if (hour > 0 && hour < 12)
+      {
+        Console.WriteLine("It's morning.");
+      }
+      else if (hour >= 12 && hour < 18)
+      {
+        Console.WriteLine("It's afternoon.");
+      }
+      else
+      {
+        Console.WriteLine("It's night.");
+      }
+
+      Console.Read();
     }
+  }
 }
