@@ -9,22 +9,50 @@ namespace CSharpFundamentals
         Registered = 2,
         Express = 3
     }
+
+    public class Personage 
+    {
+        public int Age;
+    }
     class Program
     {
+        // ----- Reference vs Value Types -----
         static void Main(string[] args)
         {
-            var method = ShippingMethods.Express;
-            Console.WriteLine((int)method);
+            var number = 1;
+            Increment(number); // does not change "number"
+            Console.WriteLine(number);
 
-            var methodId = 3;
-            Console.WriteLine((ShippingMethods)methodId);
-
-            Console.WriteLine(method.ToString());
-
-            var methodName = "Express";
-            var shippingMethod = (ShippingMethods)Enum.Parse(typeof(ShippingMethods), methodName);
-            Console.WriteLine(shippingMethod);
+            var person = new Personage() { Age = 20 };
+            MakeOld(person);
+            Console.WriteLine(person.Age);
         }
+
+        public static void Increment(int number)
+        {
+            number += 10;
+        }
+
+        public static void MakeOld(Personage person)
+        {
+            person.Age += 10;
+        }
+
+        // ----- Intro to enum structures -----
+        //static void Main(string[] args)
+        //{
+        //    var method = ShippingMethods.Express;
+        //    Console.WriteLine((int)method);
+
+        //    var methodId = 3;
+        //    Console.WriteLine((ShippingMethods)methodId);
+
+        //    Console.WriteLine(method.ToString());
+
+        //    var methodName = "Express";
+        //    var shippingMethod = (ShippingMethods)Enum.Parse(typeof(ShippingMethods), methodName);
+        //    Console.WriteLine(shippingMethod);
+        //}
 
 
         // ----- Intro to array structures -----
