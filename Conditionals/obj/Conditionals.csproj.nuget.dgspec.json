@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\Conditionals.csproj": {}
+    "C:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\Conditionals.csproj": {}
   },
   "projects": {
-    "c:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\Conditionals.csproj": {
+    "C:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\Conditionals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\Conditionals.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\Conditionals.csproj",
         "projectName": "Conditionals",
-        "projectPath": "c:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\Conditionals.csproj",
+        "projectPath": "C:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\Conditionals.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\obj\\",
+        "outputPath": "C:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",

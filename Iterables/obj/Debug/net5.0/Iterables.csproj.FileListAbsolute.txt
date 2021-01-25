@@ -1,0 +1,16 @@
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\bin\Debug\net5.0\Iterables.exe
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\bin\Debug\net5.0\Iterables.deps.json
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\bin\Debug\net5.0\Iterables.runtimeconfig.json
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\bin\Debug\net5.0\Iterables.runtimeconfig.dev.json
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\bin\Debug\net5.0\Iterables.dll
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\bin\Debug\net5.0\ref\Iterables.dll
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\bin\Debug\net5.0\Iterables.pdb
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\obj\Debug\net5.0\Iterables.csprojAssemblyReference.cache
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\obj\Debug\net5.0\Iterables.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\obj\Debug\net5.0\Iterables.AssemblyInfoInputs.cache
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\obj\Debug\net5.0\Iterables.AssemblyInfo.cs
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\obj\Debug\net5.0\Iterables.csproj.CoreCompileInputs.cache
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\obj\Debug\net5.0\Iterables.dll
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\obj\Debug\net5.0\ref\Iterables.dll
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\obj\Debug\net5.0\Iterables.pdb
+c:\Users\micha\CSharpProjects\c_sharp\Iterables\obj\Debug\net5.0\Iterables.genruntimeconfig.cache

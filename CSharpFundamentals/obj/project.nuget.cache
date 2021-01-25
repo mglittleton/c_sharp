@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8bJpcaVLSwYhG499PMt2qlNYOIC917z2wW07X68/b+uONIkDT6P91hf1fsIDhcRTVJd3Ok/APVSz//eNngC7Yg==",
+  "dgSpecHash": "yY8yru+wysdDxJM5xiPdia4s2WtyfFtgqpOUOeFyp0YtdfXf1rhW8khOzXVqQkkqb4d/BLCbcYGXrXSckDWBEQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\micha\\CSharpProjects\\c_sharp\\CSharpFundamentals\\CSharpFundamentals.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\micha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\micha\\CSharpProjects\\c_sharp\\CSharpFundamentals\\CSharpFundamentals.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

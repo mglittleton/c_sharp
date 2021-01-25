@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QOTtfkj3lXFKAlnIwOFgz+oDhD0YP3RUmLkWJWP2VZGewjR3QAa/Fp0TH1oHEWD7dujXhEi6sE3A9BTX9XcvBw==",
+  "dgSpecHash": "GPM/SO8rqyLpf744u777nzd8ffk+n8sxO+c9c622BLplsdCT60FxaJWWuidmAijSwK3WRc7tRxjVTNy6ugbBhQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\micha\\CSharpProjects\\c_sharp\\HelloWorld\\HelloWorld.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\micha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\micha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\micha\\CSharpProjects\\c_sharp\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

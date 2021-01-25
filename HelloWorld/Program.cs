@@ -8,7 +8,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("This is HelloWorld. Press enter: ");
+            Console.ReadLine();
         }
     }
 }
