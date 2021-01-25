@@ -5,6 +5,8 @@ namespace Iterables
 {
     class Program
     {
+
+        // Arrays - generic
         static void Main(string[] args)
         {
             // Length
@@ -27,8 +29,25 @@ namespace Iterables
             Console.WriteLine("Effect of Copy:");
             foreach (var n in another)
                 Console.WriteLine(n);
-            
-            Thread.Sleep(50000);
+
+            // Sort
+            Array.Sort(numbers);
+            Console.WriteLine("Effect of Sort:");
+            foreach (var n in numbers)
+                Console.WriteLine(n);
+
+            // Reverse
+            Array.Reverse(numbers);
+            Console.WriteLine("Effect of Reverse:");
+            foreach (var n in numbers)
+                Console.WriteLine(n);
+
+            // IsFixedSize
+            bool fixd = numbers.IsFixedSize;
+            Console.WriteLine("Is a fixed size:");
+            Console.WriteLine(fixd);
+
+            Thread.Sleep(5000);
         }
     }
 }
