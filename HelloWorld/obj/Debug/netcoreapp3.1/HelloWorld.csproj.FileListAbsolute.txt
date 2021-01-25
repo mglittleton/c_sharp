@@ -11,3 +11,16 @@ C:\Users\micha\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloW
 C:\Users\micha\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
 C:\Users\micha\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
 C:\Users\micha\source\repos\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+c:\Users\micha\CSharpProjects\c_sharp\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

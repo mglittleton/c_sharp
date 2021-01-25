@@ -11,3 +11,16 @@ C:\Users\micha\source\repos\HelloWorld\CSharpFundamentals\obj\Debug\netcoreapp3.
 C:\Users\micha\source\repos\HelloWorld\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.dll
 C:\Users\micha\source\repos\HelloWorld\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.pdb
 C:\Users\micha\source\repos\HelloWorld\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.genruntimeconfig.cache
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.exe
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.deps.json
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.json
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.runtimeconfig.dev.json
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.dll
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\bin\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csprojAssemblyReference.cache
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfoInputs.cache
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.AssemblyInfo.cs
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.csproj.CoreCompileInputs.cache
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.dll
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.pdb
+c:\Users\micha\CSharpProjects\c_sharp\CSharpFundamentals\obj\Debug\netcoreapp3.1\CSharpFundamentals.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\source\\repos\\HelloWorld\\Conditionals\\Conditionals.csproj",
+      "projectUniqueName": "c:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\Conditionals.csproj",
       "projectName": "Conditionals",
-      "projectPath": "C:\\Users\\micha\\source\\repos\\HelloWorld\\Conditionals\\Conditionals.csproj",
+      "projectPath": "c:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\Conditionals.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\source\\repos\\HelloWorld\\Conditionals\\obj\\",
+      "outputPath": "c:\\Users\\micha\\CSharpProjects\\c_sharp\\Conditionals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",

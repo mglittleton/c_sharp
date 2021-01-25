@@ -11,3 +11,16 @@ C:\Users\micha\source\repos\HelloWorld\Conditionals\obj\Debug\netcoreapp3.1\Cond
 C:\Users\micha\source\repos\HelloWorld\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.pdb
 C:\Users\micha\source\repos\HelloWorld\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.genruntimeconfig.cache
 C:\Users\micha\source\repos\HelloWorld\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csprojAssemblyReference.cache
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.exe
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.deps.json
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.json
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.runtimeconfig.dev.json
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.dll
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\bin\Debug\netcoreapp3.1\Conditionals.pdb
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csprojAssemblyReference.cache
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfoInputs.cache
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.AssemblyInfo.cs
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.csproj.CoreCompileInputs.cache
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.dll
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.pdb
+c:\Users\micha\CSharpProjects\c_sharp\Conditionals\obj\Debug\netcoreapp3.1\Conditionals.genruntimeconfig.cache
